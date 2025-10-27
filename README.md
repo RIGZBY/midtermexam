@@ -45,7 +45,6 @@ This system provides a user-friendly interface for adding, viewing, updating, an
 ## Contributing
 
 Branden Basco
-Janial Bacani
 
 
 ## Code of Conduct
